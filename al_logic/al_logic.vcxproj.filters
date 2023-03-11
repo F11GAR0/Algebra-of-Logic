@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="lexer.h">
+      <Filter>lexer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="lexer.cpp">
+      <Filter>lexer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="lexer">
+      <UniqueIdentifier>{5aeaa532-0cd7-449e-8311-48d6baf46132}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+x64
+Debug
+bin
+obj
+
+*.vs
+*.obj
+*.exe
+*.dll
+*.lib
+*exp
