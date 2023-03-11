@@ -1,6 +1,6 @@
 >Example:
 
-######Expression from MatBuro.ru
+###### Expression from MatBuro.ru
 ```c
 P&Q>(Q&!P>R&Q)
 ```
@@ -18,7 +18,7 @@ P Q R  RES
 1 1 1 1
 ```
 
-######XOR
+###### XOR
 ```c
 A+B
 ```
@@ -32,7 +32,7 @@ A B  RES
 1 1 0
 ```
 
-######NOT
+###### NOT
 ```c
 !A
 ```
@@ -44,7 +44,7 @@ A  RES
 1 0
 ```
 
-######Equivalent 
+###### Equivalent 
 ```c
 !(A+B)=(A=B)
 ```
