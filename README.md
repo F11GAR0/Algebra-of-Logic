@@ -1,3 +1,7 @@
+>Screenshot:
+![Image alt](https://github.com/F11GAR0/Algebra-of-Logic/blob/main/data/screen.png)
+____
+
 >Example:
 
 ###### Expression from MatBuro.ru
@@ -61,6 +65,3 @@ A B RES
 1 1 1
 ```
 ____
-
->Screenshot:
-![Image alt](https://github.com/F11GAR0/Algebra-of-Logic/blob/main/data/screen.png)
